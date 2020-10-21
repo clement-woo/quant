@@ -1,6 +1,6 @@
 # quant
 
-This repository contains self-directed coding projects I have written to prepare me for a job in quantitative finance.
+This repository contains self-directed coding projects I have written to prepare myself for a job in quantitative finance.
 
 Most of these projects are inspired by Mark Joshi's excellent "The Concepts and Practice of Mathematical Finance".
 
