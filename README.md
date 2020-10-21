@@ -1,5 +1,4 @@
 # quant
-Quantitative Finance projects
 
 This repository contains self-directed coding projects I have written to prepare me for a job in quantitative finance.
 
